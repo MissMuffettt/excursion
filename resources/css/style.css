@@ -2,8 +2,8 @@
 
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: white;
     text-align: center;
+    color: white;
     background-color: black;
 }
 
@@ -15,8 +15,9 @@ body {
 }
 
 .link-download {
-    color: aquamarine;
     font-size: 16px;
+    color: aquamarine;
+
 }
 
 /* Travel Guide & Coming Soon */
