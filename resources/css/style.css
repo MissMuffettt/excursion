@@ -19,7 +19,7 @@ body {
     font-size: 16px;
 }
 
-/* Travel Guide */
+/* Travel Guide & Coming Soon */
 
 .header-secondary {
     font-size: 42px;
@@ -29,5 +29,14 @@ body {
 .header-subheader {
     font-size: 21px;
     font-weight: normal;
+    color: gray;
+}
+
+/* Footer */
+
+.footer {
+    font-size: 21px;
+    font-weight: normal;
+    text-align: right;
     color: gray;
 }
